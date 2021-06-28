@@ -6,9 +6,9 @@
 </p>
 
 
-- 🔭 I’m currently working on **Self-care: create habits**
+- 🔭 I’m currently working on **Fitness Challenge**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **luiscruzdeveloper23@gmail.com**
 
