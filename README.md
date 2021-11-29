@@ -6,7 +6,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **Fitness Challenge**
+- 🔭 I’m currently working on **FinZi app**
 
 - 🌱 I’m currently learning **React Native**
 
