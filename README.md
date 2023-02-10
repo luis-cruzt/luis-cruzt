@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **FinZi app**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 Currently learning **iOS Development**
 
 - 📫 How to reach me **luiscruzdeveloper23@gmail.com**
 
