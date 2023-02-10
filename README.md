@@ -10,7 +10,7 @@
 
 - 🌱 Currently learning **iOS Development**
 
-- 📫 How to reach me **luiscruzdeveloper23@gmail.com**
+- 📫 How to reach me **luiscruzit23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
  
