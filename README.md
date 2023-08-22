@@ -6,7 +6,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **FinZi app**
+- 🔭 I’m currently working on **Pagafasil Mobile App**
 
 - 🌱 Currently learning **iOS Development**
 
